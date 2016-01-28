@@ -11,3 +11,6 @@
 
 # How to contribute
 
+# License
+MIT License
+
